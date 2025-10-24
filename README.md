@@ -1,5 +1,5 @@
 # Calculator
-Simple calculator software code. It can add, sub, multiply, divide &amp; other maths...
+# Simple calculator software code. It can add, sub, multiply, divide & other maths...
 
 import tkinter as tk
 from tkinter import messagebox
