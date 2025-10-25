@@ -106,6 +106,7 @@
         canvas.bind("<Button-1>", lambda event, t=text: command(t))
         return canvas
 
+# BUTTON SETUP
     button_size = 140 
     btn_canvas = create_round_button(root, text=text, size=button_size, color=bg_color, command=button_click, text_color=fg_color)
     btn_canvas.grid(row=row, column=col, padx=3, pady=3)
